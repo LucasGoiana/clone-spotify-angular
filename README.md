@@ -1,27 +1,30 @@
-# SpotifyFront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+<h1 align="center"> Pesquisa de Álbuns no Spootify por artistas </h1>
 
-## Development server
+###  Desenvolvedor<Br>
+341417 - LUCAS GOIANA MALICIA<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Como utilizar 
 
-## Code scaffolding
+### Pré-requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
 
-## Build
+# Link GitHub
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<a href="https://github.com/LucasGoiana/search-albuns-spotify-angular/">Cliquei aqui</a>
 
-## Running unit tests
+# Tema
+Utilizei a api aberta do spotify para integrar um front end angular com uma api java spring.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# As Tecnologias Escolhidas
 
-## Running end-to-end tests
+Para esse projeto foi criado um front end em angular esse repositório contempla o Front-End(Angular) que informando somente o nome do artista busca a lista de Álbuns encontrados.<br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+  > <b>Obs.:</b> A  api do Spotify não contempla todos os artista e isso pode ocasionar falhas nas buscas durante o testes, para resolver isso, por favor, utilize mais de um artistas em seus testes.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Tela com resultado
+
+![modelo logico](https://lucasgoiana.com/albuns.png)
+
