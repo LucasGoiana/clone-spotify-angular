@@ -1,0 +1,47 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center{
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+input{
+    padding: 10px 20px;
+    border-radius: 0px;
+    border:1px solid grey;
+    width: 74%;
+
+
+}
+
+.albums{
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid #eee;
+    padding: 10px;
+
+}
+
+table{
+    width: 100%;
+}
+table tr th{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid gray;
+    color: white;
+    padding: 5px;
+    background-color: #b72f2c ;
+}
+table tr td{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid gray;
+}
+
+a{
+    background: #3ee0e0;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
